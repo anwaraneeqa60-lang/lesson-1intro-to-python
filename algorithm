@@ -1,0 +1,6 @@
+take to numbers a and b
+a = 45
+b = 56
+take another variable c
+which will store the result of a and b
+c = a + b 
